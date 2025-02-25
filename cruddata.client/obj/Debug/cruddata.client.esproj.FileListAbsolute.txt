@@ -1,0 +1,1 @@
+C:\TOP\CrudData\cruddata.client\obj\Debug\cruddata.client.esproj.CoreCompileInputs.cache

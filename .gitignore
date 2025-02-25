@@ -1,0 +1,81 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Logs
+logs/
+*.log
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Dependency directories
+jspm_packages/
+client/node_modules/
+client/bower_components/
+
+# Build directories
+build/
+dist/
+tmp/
+temp/
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Grunt intermediate storage (https://gruntjs.com/creating-plugins#storing-task-files)
+.grunt/
+
+# Bower dependency directory (https://bower.io/)
+bower_components/
+
+# Compiled source
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Static files
+public/static/
+
+# Webpack files
+*.webpack.js
+*.webpack.config.js
+
+# React Native
+*.expo/
+.expo-shared/
+
+# Miscellaneous
+.DS_Store
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# API specific
+api/.env
+api/.env.local
+api/.env.development.local
+api/.env.test.local
+api/.env.production.local
+api/node_modules/
+api/logs/
+api/tmp/
+api/temp/
+api/dist/
+api/build/
+
+# App settings
+appsettings.development.json
+
+.vs

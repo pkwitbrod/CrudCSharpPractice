@@ -1,0 +1,14 @@
+C:\TOP\CrudData\StoreTestData\bin\Debug\net8.0\StoreTestData.deps.json
+C:\TOP\CrudData\StoreTestData\bin\Debug\net8.0\StoreTestData.dll
+C:\TOP\CrudData\StoreTestData\bin\Debug\net8.0\StoreTestData.pdb
+C:\TOP\CrudData\StoreTestData\obj\Debug\net8.0\StoreTestData.csproj.AssemblyReference.cache
+C:\TOP\CrudData\StoreTestData\obj\Debug\net8.0\StoreTestData.GeneratedMSBuildEditorConfig.editorconfig
+C:\TOP\CrudData\StoreTestData\obj\Debug\net8.0\StoreTestData.AssemblyInfoInputs.cache
+C:\TOP\CrudData\StoreTestData\obj\Debug\net8.0\StoreTestData.AssemblyInfo.cs
+C:\TOP\CrudData\StoreTestData\obj\Debug\net8.0\StoreTestData.csproj.CoreCompileInputs.cache
+C:\TOP\CrudData\StoreTestData\obj\Debug\net8.0\StoreTestData.dll
+C:\TOP\CrudData\StoreTestData\obj\Debug\net8.0\refint\StoreTestData.dll
+C:\TOP\CrudData\StoreTestData\obj\Debug\net8.0\StoreTestData.pdb
+C:\TOP\CrudData\StoreTestData\obj\Debug\net8.0\ref\StoreTestData.dll
+C:\TOP\CrudData\StoreTestData\bin\Debug\net8.0\StoreTestData.runtimeconfig.json
+C:\TOP\CrudData\StoreTestData\obj\Debug\net8.0\StoreTestData.genruntimeconfig.cache

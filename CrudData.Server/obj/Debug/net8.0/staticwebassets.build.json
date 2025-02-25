@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "NxN+ayP2SHtnVqUBCprByx0Zdm31o68EY8n+meX+Ekw=",
+  "Source": "CrudData.Server",
+  "BasePath": "_content/CrudData.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\TOP\\CrudData\\cruddata.client\\cruddata.client.esproj",
+      "Version": 2,
+      "Source": "cruddata.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
