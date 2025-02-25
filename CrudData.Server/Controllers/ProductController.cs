@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using CrudData.Server.Interfaces;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using StoreTestData.Models;
@@ -10,10 +11,12 @@ namespace CrudData.Server.Controllers
     public class ProductController : ControllerBase
     {
         private readonly CrudDbContext _context;
+        private readonly IProductManager _productManager;
 
-        public ProductController(CrudDbContext context)
+        public ProductController(CrudDbContext context, IProductManager productManager)
         {
             _context = context;
+            _productManager = productManager;
         }
 
         [HttpGet]
@@ -21,6 +24,7 @@ namespace CrudData.Server.Controllers
         {
             try
             {
+                await _productManager.GetProductList();
                 return await _context.Products.ToListAsync();
             }
             catch (Exception e)

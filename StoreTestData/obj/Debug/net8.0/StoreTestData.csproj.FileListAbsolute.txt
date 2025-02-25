@@ -12,3 +12,4 @@ C:\TOP\CrudData\StoreTestData\obj\Debug\net8.0\StoreTestData.pdb
 C:\TOP\CrudData\StoreTestData\obj\Debug\net8.0\ref\StoreTestData.dll
 C:\TOP\CrudData\StoreTestData\bin\Debug\net8.0\StoreTestData.runtimeconfig.json
 C:\TOP\CrudData\StoreTestData\obj\Debug\net8.0\StoreTestData.genruntimeconfig.cache
+C:\TOP\CrudData\StoreTestData\obj\Debug\net8.0\StoreTestData.sourcelink.json

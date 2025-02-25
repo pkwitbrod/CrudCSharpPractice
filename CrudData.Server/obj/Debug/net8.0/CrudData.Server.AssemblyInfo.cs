@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CrudData.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+135251e5dfa8456d95f2ecd9941bab7a9d7ac036")]
 [assembly: System.Reflection.AssemblyProductAttribute("CrudData.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CrudData.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

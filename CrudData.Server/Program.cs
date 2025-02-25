@@ -18,6 +18,9 @@ builder.Services.AddDbContext<CrudDbContext>(options =>
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+builder.Services.AddTransient<IProductManager, ProductManager>();
+builder.Services.AddTransient<ISalesOrderManager,  SalesOrderManager>();
+
 builder.Services.AddSingleton<IWeatherAccessor, WeatherAccessor>();
 builder.Services.AddTransient<IWeatherEngine, WeatherEngine>();
 builder.Services.AddTransient<IWeatherManager, WeatherManager>();
